@@ -5,7 +5,7 @@
 Hey there! I'm Daniel a recent boot camp graduate! I'm really enthusiastic about the entreprenuerial scene,language learning, and educational content. I write music and develop games in my spare time!
 
 ## SKILLS & EXPERIENCE
-* 💡 Java
+* 💡 Python, Java
 * 💻 HTML, CSS, JS
 * 🔮 Spring Boot, Apache Tomcat
 * 💿 MySQL
