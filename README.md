@@ -4,9 +4,15 @@
 
 Hey there! I'm Daniel a recent boot camp graduate! I'm really enthusiastic about the entreprenuerial scene,language learning, and educational content. I write music and develop games in my spare time!
 
+## EDUCATION
+* Scrimba Front-end Web Developer Bootcamp
+* Coursera: Meta, Front-end Web Developer Certificate Course
+* Coding Dojo Bootcamp: Web Developer and Java
+* Carnegie Mellon University: Masters of Entertainment Technology (Entertainment Technology Center, ETC)
+
 ## SKILLS & EXPERIENCE
 * 💡 Python, Java
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS, React
 * 🔮 Spring Boot, Apache Tomcat
 * 💿 MySQL
 * ☁️ AWS
