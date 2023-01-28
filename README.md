@@ -10,8 +10,7 @@
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif)" width="40" height="40"/> 
 </p>
 
-
-# Daniel J Cohen
+# <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">Daniel J Cohen
 
 Hey there - I'm Daniel! A...
 * 📙 Philosophical Coder
