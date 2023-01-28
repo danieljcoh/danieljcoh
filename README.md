@@ -98,7 +98,8 @@ Hey there - I'm Daniel! A...
 <p align="left"> 
   
 <!--Unity-->  
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </a> 
 <!--Unreal Engine-->  
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
@@ -106,26 +107,6 @@ Hey there - I'm Daniel! A...
 </a> 
 
 </p>
-
-## RECENT SOFTWARE PROJECTS
-### Sumodex
-https://user-images.githubusercontent.com/37455228/136439412-14658d83-6814-4f09-b5b1-7a2bf7f47e0c.mp4
-
-## RECENT MUSIC PROJECTS
-### Until You Fall by Schell Games
-<a href="https://youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl
-" target="_blank">
-  <img src="https://user-images.githubusercontent.com/37455228/136443470-3091810a-bef9-4e92-ac73-18410a1aac6b.png" alt="UYF_Hub" width="100" height="200" border="10" /></a> 
-
-
-## CURRENT GAME PROJECTS
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/37455228/136439834-2a72e264-2e7e-48ee-9b66-7501f8f8dc1d.PNG" width="100" height="200"/>
-  <img src="https://user-images.githubusercontent.com/37455228/136440578-80981ff2-0681-4efc-8ab1-5afb077d5d90.png" width="100" height="200"/> 
-</p>
-
-h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer and language learning enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
 
