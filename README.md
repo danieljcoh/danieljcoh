@@ -2,6 +2,7 @@
 <!--Site View Counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
 
+![gengar](https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif)
 # Daniel J Cohen
 
 Hey there - I'm Daniel! A...
