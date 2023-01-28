@@ -14,7 +14,7 @@ Hey there - I'm Daniel! A...
 * 🕴️ Entreprenuer and Freelancer
 
 <!--RECENT PROJECTS-->
-# <img src="https://user-images.githubusercontent.com/37455228/215285163-ffbc63e1-49b7-4e5c-a257-094fd05c6e1b.gif" width="70">RECENT PROJECTS
+# <img src="https://user-images.githubusercontent.com/37455228/215285163-ffbc63e1-49b7-4e5c-a257-094fd05c6e1b.gif" width="100">RECENT PROJECTS
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
 
 1. [Sumodex](http://3.131.99.116/wrestler/1)
