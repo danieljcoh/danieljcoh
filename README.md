@@ -120,13 +120,6 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-- 👨‍💻 All of my projects are available at [danieljcoh.com](danieljcoh.com)
-
-- 📫 How to reach me **danieljcoh@gmail.com**
-
-- ⚡ Fun fact **I'm not bad with a yo-yo!**
-
-
 ## CONNECT WITH ME
 <!--SOCIAL MEDIA-->
 <p align="left">
