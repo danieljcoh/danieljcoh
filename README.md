@@ -1,4 +1,6 @@
-![Github_Banner](https://user-images.githubusercontent.com/37455228/136441942-eb62cf27-79f4-457b-ba2e-35d8c9587947.jpg)
+![Github_Banner](https://user-images.githubusercontent.com/37455228/136441942-eb62cf27-79f4-457b-ba2e-35d8c9587947.jpg) 
+<!--Site View Counter-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
 
 # Daniel J Cohen
 
@@ -42,7 +44,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-* 💡 Java, Python
+### 💡 Java, Python
 <p align="left"> 
 <!--Java-->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -55,7 +57,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-* 🔮 Spring Boot
+### 🔮 Spring Boot
 <p align="left"> 
 <!--Spring-->
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -64,7 +66,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-* 💿 MySQL
+### 💿 MySQL
 <p align="left"> 
 <!--MySQL-->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -73,7 +75,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-* ☁️ AWS
+### ☁️ AWS
 <p align="left"> 
 <!--AWS-->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -82,7 +84,7 @@ Hey there - I'm Daniel! A...
   
 </p>
 
-* ☁️ Figma, Adobe Xd
+### ☁️ Figma, Adobe Xd
 <p align="left"> 
 <!--Figma-->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -94,7 +96,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-* ☁️ Game Design
+### ☁️ Game Design
 <p align="left"> 
   
 <!--Unity-->  
@@ -108,24 +110,33 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
-
 - 👨‍💻 All of my projects are available at [danieljcoh.com](danieljcoh.com)
 
 - 📫 How to reach me **danieljcoh@gmail.com**
 
 - ⚡ Fun fact **I'm not bad with a yo-yo!**
 
-<h3 align="left">Connect with me:</h3>
 
+<h3 align="left">Connect with me:</h3>
+<!--SOCIAL MEDIA-->
 <p align="left">
-<a href="https://codepen.io/danieljcoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="danieljcoh" height="30" width="40" /></a>
   
-<a href="https://twitter.com/dajohcoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dajohcoh" height="30" width="40" /></a>
+<a href="https://codepen.io/danieljcoh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="danieljcoh" height="30" width="40" />
+</a>
   
-<a href="https://linkedin.com/in/daniel-j-coh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-j-coh" height="30" width="40" /></a>
+<a href="https://twitter.com/dajohcoh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dajohcoh" height="30" width="40" />
+</a>
   
-<a href="https://www.leetcode.com/danieljcoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danieljcoh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-j-coh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-j-coh" height="30" width="40" />
+</a>
+  
+<a href="https://www.leetcode.com/danieljcoh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danieljcoh" height="30" width="40" />
+</a>
+ 
 </p>
 
   
