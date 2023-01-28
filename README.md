@@ -55,13 +55,13 @@ https://user-images.githubusercontent.com/37455228/136439412-14658d83-6814-4f09-
 ### Until You Fall by Schell Games
 <a href="https://youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl
 " target="_blank">
-  <img src="https://user-images.githubusercontent.com/37455228/136443470-3091810a-bef9-4e92-ac73-18410a1aac6b.png" alt="UYF_Hub" width="700" height="500" border="10" /></a> 
+  <img src="https://user-images.githubusercontent.com/37455228/136443470-3091810a-bef9-4e92-ac73-18410a1aac6b.png" alt="UYF_Hub" width="100" height="200" border="10" /></a> 
 
 
 ## CURRENT GAME PROJECTS
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/37455228/136439834-2a72e264-2e7e-48ee-9b66-7501f8f8dc1d.PNG" width="400" height="500"/>
-  <img src="https://user-images.githubusercontent.com/37455228/136440578-80981ff2-0681-4efc-8ab1-5afb077d5d90.png" width="400" height="500"/> 
+  <img src="https://user-images.githubusercontent.com/37455228/136439834-2a72e264-2e7e-48ee-9b66-7501f8f8dc1d.PNG" width="100" height="200"/>
+  <img src="https://user-images.githubusercontent.com/37455228/136440578-80981ff2-0681-4efc-8ab1-5afb077d5d90.png" width="100" height="200"/> 
 </p>
 
 h1 align="center">Hi 👋, I'm Daniel</h1>
