@@ -12,6 +12,11 @@ Hey there - I'm Daniel! A...
 * 🐲🏀 Anime Enjoyer
 * 🕴️ Entreprenuer and Freelancer
 
+
+## RECENT PROJECTS
+![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
+
+
 ## CURRENT EDUCATION
 * Scrimba: Front-end Web Developer Bootcamp
 * Coursera: Meta, Front-end Web Developer Certificate Course
