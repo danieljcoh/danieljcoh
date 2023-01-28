@@ -127,7 +127,7 @@ Hey there - I'm Daniel! A...
 - ⚡ Fun fact **I'm not bad with a yo-yo!**
 
 
-<h3 align="left">Connect with me:</h3>
+# <img src="https://user-images.githubusercontent.com/37455228/215285232-4baecefc-7f52-44b3-a6e0-91b642084d80.gif" width="70">CONNECT WITH ME
 <!--SOCIAL MEDIA-->
 <p align="left">
   
