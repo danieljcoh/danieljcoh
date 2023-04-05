@@ -22,8 +22,6 @@ Hey there - I'm Daniel! A...
 <h1 align="left">Grocery Run</h1>
 <p> <img align="left" style="display: inline;" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
-<br/>
-
 ## RECENT WEB PROJECTS
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
 
