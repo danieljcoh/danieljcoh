@@ -20,7 +20,7 @@ Hey there - I'm Daniel! A...
 
 <h3 align="left"><u>Grocery Run</u></h3>
 <p> <img align="left" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
-<p></p>
+<h1></h1>
 
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
