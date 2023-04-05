@@ -15,7 +15,12 @@ Hey there - I'm Daniel! A...
 
 <!--RECENT PROJECTS-->
 ## RECENT PROJECTS
+
+<h1 align="left">Asteroid Shooter</h1>
+<h1 align="right">Grocery Run</h1>
+
 <p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
 
