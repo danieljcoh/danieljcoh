@@ -14,11 +14,11 @@ Hey there - I'm Daniel! A...
 * 🕴️ Entreprenuer and Freelancer
 
 <!--RECENT PYTHON PROJECTS-->
-### RECENT PYTHON PROJECTS
-[Asteroid Shooter](https://github.com/danieljcoh/asteroid-classes)
+## RECENT PYTHON PROJECTS
+### [Asteroid Shooter](https://github.com/danieljcoh/asteroid-classes)
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
 
-<a href="https://github.com/danieljcoh/pygame-pymania"><h3 align="left"><u>Grocery Run</u></h3></a>
+### [Grocery Run](https://github.com/danieljcoh/pygame-pymania)
 <p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
 <!--RECENT WEB PROJECTS-->
