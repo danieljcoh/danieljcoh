@@ -16,11 +16,11 @@ Hey there - I'm Daniel! A...
 <!--RECENT PROJECTS-->
 ## RECENT PROJECTS
 
-<h1 align="left" style="display: inline;">Asteroid Shooter</h1>
-<h1 align="center" style="display: inline;">Grocery Run</h1>
+<h1 align="left">Asteroid Shooter</h1>
+<h1 align="left">Grocery Run</h1>
 
-<img align="left" style="display: inline;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
-<img align="right" style="display: inline;" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" />
+<img align="right" style="display: inline;" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" />
 
 <br/>
 
