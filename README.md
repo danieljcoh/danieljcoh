@@ -15,7 +15,7 @@ Hey there - I'm Daniel! A...
 
 <!--RECENT PYTHON PROJECTS-->
 ### RECENT PYTHON PROJECTS
-<a href="https://github.com/danieljcoh/asteroid-classes"><h3 align="left">Asteroid Shooter</h3></a>
+[Asteroid Shooter](https://github.com/danieljcoh/asteroid-classes)
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
 
 <a href="https://github.com/danieljcoh/pygame-pymania"><h3 align="left"><u>Grocery Run</u></h3></a>
