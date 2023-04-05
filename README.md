@@ -39,7 +39,7 @@ Hey there - I'm Daniel! A...
 ## COMPLETED EDUCATION
 * Coding Dojo Bootcamp: Web Developer and Java
 * Carnegie Mellon University: Masters of Entertainment Technology (Entertainment Technology Center, ETC)
-* State University of NY Fredonia School of Music (Percussion, Music Education, K - 12)
+* State University of NY Fredonia: School of Music (Percussion, Music Education, K - 12)
 
 ## SKILLS & EXPERIENCE
 * 💻 HTML, CSS, JS, React, Bootstrap
