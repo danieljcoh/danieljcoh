@@ -31,6 +31,8 @@ Hey there - I'm Daniel! A...
 5. [Until You Fall VR](https://untilyoufall.schellgames.com) [Music](https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl)
 
 ## CURRENT EDUCATION
+* Udemy: 100 Days of Code, Python
+* Udemy: The Ultimate Web Dev Bootcamp
 * Scrimba: Front-end Web Developer Bootcamp
 * Coursera: Meta, Front-end Web Developer Certificate Course
 
