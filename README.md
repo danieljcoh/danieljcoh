@@ -15,10 +15,10 @@ Hey there - I'm Daniel! A...
 
 <!--RECENT PYTHON PROJECTS-->
 ### RECENT PYTHON PROJECTS
-<h3 align="left"><u>Asteroid Shooter</u></h3>
+<a href="https://github.com/danieljcoh/asteroid-classes"><h3 align="left"><u>Asteroid Shooter</u></h3></a>
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
 
-<h3 align="left"><u>Grocery Run</u></h3>
+<a href="https://github.com/danieljcoh/pygame-pymania"><h3 align="left"><u>Grocery Run</u></h3></a>
 <p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
 <!--RECENT WEB PROJECTS-->
