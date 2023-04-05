@@ -19,8 +19,7 @@ Hey there - I'm Daniel! A...
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
 
 <h3 align="left"><u>Grocery Run</u></h3>
-<p> <img align="left" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
-<h1>something</h1>
+<p> src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
