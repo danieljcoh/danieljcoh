@@ -16,10 +16,10 @@ Hey there - I'm Daniel! A...
 <!--RECENT PROJECTS-->
 ## RECENT PYTHON PROJECTS
 
-<h1 align="left">Asteroid Shooter</h1>
+<h3 align="left">Asteroid Shooter</h3>
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
 
-<h1 align="left">Grocery Run</h1>
+<h3 align="left">Grocery Run</h3>
 <p> <img align="left" style="display: inline;" src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
 
 ## RECENT WEB PROJECTS
