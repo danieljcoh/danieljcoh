@@ -15,6 +15,8 @@ Hey there - I'm Daniel! A...
 
 <!--RECENT PROJECTS-->
 ## RECENT PROJECTS
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
+
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
 
 1. [Sumodex](http://3.131.99.116/wrestler/1)
