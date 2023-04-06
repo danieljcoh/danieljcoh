@@ -105,7 +105,7 @@ Hey there - I'm Daniel! A...
   
 </p>
 
-### ☁️ Figma, Adobe Xd
+### 🧠 Figma, Adobe Xd
 <p align="left"> 
 <!--Figma-->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -117,7 +117,7 @@ Hey there - I'm Daniel! A...
 
 </p>
 
-### ☁️ Game Design
+### 🎮 Game Design
 <p align="left"> 
   
 <!--Unity-->  
