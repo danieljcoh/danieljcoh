@@ -16,10 +16,13 @@ Hey there - I'm Daniel! A...
 <!--RECENT PYTHON PROJECTS-->
 ## RECENT PYTHON PROJECTS
 ### [Grocery Run](https://github.com/danieljcoh/pygame-pymania)
-<p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="danieljcoh" /> </p>
+<p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /> </p>
 
 ### [Asteroid Shooter](https://github.com/danieljcoh/asteroid-classes)
-<p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="danieljcoh" /> </p>
+<p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game" /> </p>
+
+### [Super Snake (Using Turtle Module)](https://github.com/danieljcoh/asteroid-classes)
+<p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" alt="a game of snake" /> </p>
 
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
