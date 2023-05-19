@@ -36,7 +36,7 @@ Hey there - I'm Daniel! A...
 
 ## CURRENT EDUCATION
 * Udemy: 100 Days of Code, Python
-* Udemy: The Ultimate Web Dev Bootcamp
+* Udemy: JavaScript - Zero to Hero
 * Scrimba: Front-end Web Developer Bootcamp
 * Coursera: Meta, Front-end Web Developer Certificate Course
 
