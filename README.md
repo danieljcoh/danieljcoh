@@ -25,11 +25,15 @@ Hey there - I'm Daniel! A...
     <td><a href="https://github.com/danieljcoh/asteroid-classes">Grocery Run</a></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game"/></td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td><a href="https://github.com/danieljcoh/super_snake_game">Super Snake (Using Turtle Module)</a></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" alt="a game of snake" /></td>
   </tr>
 </table>
+
 
 <!-- DEPRECATED GAMES SECTION
 
