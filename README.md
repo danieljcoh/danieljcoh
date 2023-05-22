@@ -34,6 +34,13 @@ Hey there - I'm Daniel! A...
 4. [Until You Fall VR](https://untilyoufall.schellgames.com) [Music](https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl)
 5. [100 Websites](https://100-onehundred-websites.netlify.app)
 
+## PAST PROJECTS
+<table>
+  <tr>
+    <td><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a>
+  </tr>
+</table>
+
 ## CURRENT EDUCATION
 * Udemy: 100 Days of Code, Python
 * Udemy: JavaScript - Zero to Hero
