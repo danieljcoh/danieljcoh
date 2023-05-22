@@ -19,13 +19,19 @@ Hey there - I'm Daniel! A...
 <table>
   <tr>
     <td><a href="https://github.com/danieljcoh/pygame-pymania">Grocery Run</a></td>
-    <td><a href="https://github.com/danieljcoh/asteroid-classes">Asteroid Shooter</a></td>
+    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic"/></td>
   </tr>
   <tr>
-    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game" /></td>
+    <td><a href="https://github.com/danieljcoh/asteroid-classes">Grocery Run</a></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/danieljcoh/super_snake_game">Super Snake (Using Turtle Module)</a></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" alt="a game of snake" /></td>
   </tr>
 </table>
+
+<!-- DEPRECATED GAMES SECTION
 
 ### [Grocery Run](https://github.com/danieljcoh/pygame-pymania)
 <p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /> </p>
@@ -35,7 +41,8 @@ Hey there - I'm Daniel! A...
 
 ### [Super Snake (Using Turtle Module)](https://github.com/danieljcoh/super_snake_game)
 <p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" alt="a game of snake" /> </p>
-
+ -->
+ 
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
