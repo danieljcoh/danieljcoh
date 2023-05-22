@@ -19,11 +19,11 @@ Hey there - I'm Daniel! A...
 <table>
   <tr>
     <td><a href="https://github.com/danieljcoh/pygame-pymania">Grocery Run</a></td>
-    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic"/></td>
+    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" width="400" alt="a 8 bit game dodging traffic"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/danieljcoh/asteroid-classes">Grocery Run</a></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game"/></td>
+    <td><a href="https://github.com/danieljcoh/asteroid-classes">Asteroid Shooter</a></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" width="400" alt="a 8 bit shooter game"/></td>
   </tr>
 </table>
 
