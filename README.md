@@ -28,34 +28,6 @@ Hey there - I'm Daniel! A...
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" width="300" alt="a game of snake" /></td>
   </tr>
 </table>
-
-<!-- <table>
-  <tr>
-    <td><a href="https://github.com/danieljcoh/pygame-pymania">Grocery Run</a></td>
-    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" width="400" alt="a 8 bit game dodging traffic"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/danieljcoh/asteroid-classes">Asteroid Shooter</a></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" width="400" alt="a 8 bit shooter game"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/danieljcoh/super_snake_game">Super Snake (Using Turtle Module)</a></td>
-    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" width="400" alt="a game of snake" /></td>
-  </tr>
-</table> -->
-
-
-<!-- DEPRECATED GAMES SECTION
-
-### [Grocery Run](https://github.com/danieljcoh/pygame-pymania)
-<p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /> </p>
-
-### [Asteroid Shooter](https://github.com/danieljcoh/asteroid-classes)
-<p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" alt="a 8 bit shooter game" /> </p>
-
-### [Super Snake (Using Turtle Module)](https://github.com/danieljcoh/super_snake_game)
-<p> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" alt="a game of snake" /> </p>
- -->
  
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
@@ -70,15 +42,12 @@ Hey there - I'm Daniel! A...
 ## PAST PROJECTS
 <table>
   <tr>
-    <td><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a>
+    <td><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main" align="center">Cosmic Kitchen</a>
   </tr>
   <tr>
     <td><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
   </tr>
 </table>
-
-<!-- 
-![cropped-curiouser_poster](https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3) -->
 
 ## CURRENT EDUCATION
 * Udemy: 100 Days of Code, Python
