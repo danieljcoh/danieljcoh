@@ -42,7 +42,7 @@ Hey there - I'm Daniel! A...
 ## PAST PROJECTS
 <table>
   <tr>
-    <td><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main" align="center">Cosmic Kitchen</a>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a>
   </tr>
   <tr>
     <td><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
