@@ -15,6 +15,16 @@ Hey there - I'm Daniel! A...
 
 <!--RECENT PYTHON PROJECTS-->
 ## RECENT PYTHON PROJECTS
+
+<table>
+  <tr>
+    <td><a href="https://github.com/danieljcoh/pygame-pymania">Grocery Run</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /></td>
+  </tr>
+</table>
+
 ### [Grocery Run](https://github.com/danieljcoh/pygame-pymania)
 <p> <img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" alt="a 8 bit game dodging traffic" /> </p>
 
