@@ -51,6 +51,11 @@ Hey there - I'm Daniel! A...
     <td><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
     <td><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
   </tr>
+  <tr>
+    <td>A VR Rogue-lite, Sword fighting game made.</td>
+    <td>A VR Educational Game that teaches the importance of Functions / Methods in programming.</td>
+    <td>A AR Microsoft Hololens Murder Mystery Experience.</td>
+  </tr>
 </table>
 
 <table>
