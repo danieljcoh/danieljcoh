@@ -44,15 +44,15 @@ Hey there - I'm Daniel! A...
     <td align="center"><a href="https://tiktok-tiktaktoe.netlify.app/">Tic Tac Toe</a></td>
     <td align="center"><a href="https://password-genemaker.netlify.app/">Password Generator Website</a></td>
   </tr>
-    <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">Github</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">Github</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">Github</a></td>
-  </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2d395b41-6b29-4f93-894c-d3100538d9d1" width="300" alt="sumodex logo"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/61e122f4-59c5-4102-aa9c-5520086479c5" width="300" alt="tic-tac-toe"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/eab45b40-9450-4e77-b7a8-b23f9e8722bb" width="300" alt="password generator picture"/></p></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">Github</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">Github</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">Github</a></td>
   </tr>
   <tr>
     <td align="center">A Sumo Wrestling inspired Pokedex.</td>
