@@ -1,3 +1,4 @@
+<!--BANNER PICTURE-->
 ![Github_Banner](https://user-images.githubusercontent.com/37455228/136441942-eb62cf27-79f4-457b-ba2e-35d8c9587947.jpg) 
 <!--Site View Counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
@@ -5,6 +6,7 @@
 <!--GIF-->
 # <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">Daniel J Cohen
 
+<!-- ABOUT ME -->
 Hey there - I'm Daniel! A...
 * 📙 Philosophical Coder
 * 📖 Avid Book Reader
@@ -54,15 +56,16 @@ Hey there - I'm Daniel! A...
   </tr>
 </table>
 
+<!-- RECENT WEB BASED PROJECTS #2-->
 <table>
   <tr>
-    <td align="center"><a href="http://3.131.99.116/wrestler/1">Sumodex</a></td>
+    <td align="center"><a href="https://unit-conversion-converter.netlify.app/">A Unit Converter</a></td>
   </tr>
   <tr>
-    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2d395b41-6b29-4f93-894c-d3100538d9d1" width="300" alt="sumodex logo"/></p></td>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/91097f39-bcf2-46eb-89af-d89cd4f2625d" width="300" alt="Unit converter website"/></p></td>
   </tr>
   <tr>
-    <td align="center">A Sumo Wrestling inspired Pokedex.</td>
+    <td align="center">A web based unit converter made with JavaScript.</td>
   </tr>
 </table>
 
