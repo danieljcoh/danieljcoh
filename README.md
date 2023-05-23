@@ -27,6 +27,11 @@ Hey there - I'm Daniel! A...
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNhYTkwMzA4MTUyNmFiMWRlMzMyY2Q5NzkyNTFmMTI3OGJiYjZkNSZjdD1n/PiGHy2tEjscqOr2A1w/giphy.gif" width="300" alt="a 8 bit shooter game"/></td>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZiNWM2NzhkNDY5MGQ3ODM5Y2Q1ZDU3NTY0ZDdjYjlkYWQ0NTdjYyZjdD1n/mZ7tsvYsCWXHLaiDLc/giphy.gif" width="300" alt="a game of snake" /></td>
   </tr>
+  <tr>
+    <td align="center">A Frogger-style game made using Pygame and Python.</td>
+    <td align="center">An Asteroid game clone, made primarily with classes and Pygame and Python.</td>
+    <td align="center">An arrow-key game made using Python's Turtle Module.</td>
+  </tr>
 </table>
  
 <!--RECENT WEB PROJECTS-->
