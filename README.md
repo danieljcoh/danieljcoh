@@ -76,9 +76,9 @@ Hey there - I'm Daniel! A...
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/43a45b63-b670-4c50-aa1c-9b6db0c1e257" width="300" alt="A Warhammer 40K Helper Guide"/></p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">GITHUB</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">GITHUB</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">GITHUB</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/unit-converter">GITHUB</a></td>
+    <td align="center"><a href="#">GITHUB</a></td>
+    <td align="center"><a href="#">GITHUB</a></td>
   </tr>
   <tr>
     <td align="center">A web based unit converter made with JavaScript.</td>
