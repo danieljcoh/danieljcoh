@@ -55,7 +55,7 @@ Hey there - I'm Daniel! A...
     <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">Github</a></td>
   </tr> -->
   <tr>
-    <td style="color:purple;" align="center"><a href="https://github.com/danieljcoh/Sumodex">A Sumo Wrestling inspired Pokedex.</a></td>
+    <td align="center"><a style="color:purple;" href="https://github.com/danieljcoh/Sumodex">A Sumo Wrestling inspired Pokedex.</a></td>
     <td align="center">A web based JavaScript version of Tic-Tac-Toe.</td>
     <td align="center">A web based password generator, powered by JavaScript.</td>
   </tr>
