@@ -49,15 +49,10 @@ Hey there - I'm Daniel! A...
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/61e122f4-59c5-4102-aa9c-5520086479c5" width="300" alt="tic-tac-toe"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/eab45b40-9450-4e77-b7a8-b23f9e8722bb" width="300" alt="password generator picture"/></p></td>
   </tr>
-<!--   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">Github</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">Github</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">Github</a></td>
-  </tr> -->
   <tr>
-    <td align="center"><a style="color:purple;" href="https://github.com/danieljcoh/Sumodex">A Sumo Wrestling inspired Pokedex.</a></td>
-    <td align="center">A web based JavaScript version of Tic-Tac-Toe.</td>
-    <td align="center">A web based password generator, powered by JavaScript.</td>
+    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">A Sumo Wrestling inspired Pokedex.</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">A web based JavaScript version of Tic-Tac-Toe.</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">A web based password generator, powered by JavaScript.</a></td>
   </tr>
 </table>
 
