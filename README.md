@@ -54,6 +54,18 @@ Hey there - I'm Daniel! A...
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center"><a href="http://3.131.99.116/wrestler/1">Sumodex</a></td>
+  </tr>
+  <tr>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2d395b41-6b29-4f93-894c-d3100538d9d1" width="300" alt="sumodex logo"/></p></td>
+  </tr>
+  <tr>
+    <td align="center">A Sumo Wrestling inspired Pokedex.</td>
+  </tr>
+</table>
+
 
 <!-- 
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
@@ -62,7 +74,7 @@ Hey there - I'm Daniel! A...
 2. [Birthday GIFt site](https://danieljcoh.github.io/scrimba-birthdayGIFt/)
 3. Attack on Titan, AoE Site
 4. [Until You Fall VR](https://untilyoufall.schellgames.com) [Music](https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl) -->
-5. [100 Websites](https://100-onehundred-websites.netlify.app)
+I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
 
 ## PAST PROJECTS
 <table>
