@@ -64,9 +64,6 @@ Hey there - I'm Daniel! A...
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <!-- RECENT WEB BASED PROJECTS #2-->
 <table>
