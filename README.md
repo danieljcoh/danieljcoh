@@ -48,7 +48,7 @@ Hey there - I'm Daniel! A...
   </tr>
   <tr>
     <td><img align="center" src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
-    <td><img align="center" src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></p></td>
     <td><img align="center" src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
   </tr>
   <tr>
