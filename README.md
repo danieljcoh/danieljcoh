@@ -47,9 +47,9 @@ Hey there - I'm Daniel! A...
     <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">(FAI) FBI Assistant Investigator</a>
   </tr>
   <tr>
-    <td><p align="center"><img align="center" src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></p></td>
-    <td><img align="center" src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></td>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2931c1b0-1f62-4941-aafc-6bed39cb4d0d" width="300" alt="fbi assistant investigator"/></td>
   </tr>
   <tr>
     <td align="center">A VR Rogue-lite, Sword fighting game made.</td>
