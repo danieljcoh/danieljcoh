@@ -42,7 +42,7 @@ Hey there - I'm Daniel! A...
 ## PAST PROJECTS
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Until You Fall</a>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Until You Fall and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></a>
     <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a>
     <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">(FAI) FBI Assistant Investigator</a>
   </tr>
