@@ -87,16 +87,13 @@ Hey there - I'm Daniel! A...
   </tr>
 </table>
 
+<br>
+<br>
 
-
-<!-- 
-![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
-
-1. [Sumodex](http://3.131.99.116/wrestler/1)
-2. [Birthday GIFt site](https://danieljcoh.github.io/scrimba-birthdayGIFt/)
-3. Attack on Titan, AoE Site
-4. [Until You Fall VR](https://untilyoufall.schellgames.com) [Music](https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl) -->
 I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
+
+<br>
+<br>
 
 ## PAST PROJECTS
 <table>
