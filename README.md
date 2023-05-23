@@ -62,8 +62,6 @@ Hey there - I'm Daniel! A...
 </table>
 
 <br>
-<br>
-<br>
 
 <!-- RECENT WEB BASED PROJECTS #2-->
 <table>
@@ -76,6 +74,11 @@ Hey there - I'm Daniel! A...
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/91097f39-bcf2-46eb-89af-d89cd4f2625d" width="300" alt="Unit converter website"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b0b14ce3-f70b-4e42-87bb-2308d288b470" width="300" alt="And Attack on Titan website"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/43a45b63-b670-4c50-aa1c-9b6db0c1e257" width="300" alt="A Warhammer 40K Helper Guide"/></p></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">GITHUB</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">GITHUB</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">GITHUB</a></td>
   </tr>
   <tr>
     <td align="center">A web based unit converter made with JavaScript.</td>
