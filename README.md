@@ -36,6 +36,20 @@ Hey there - I'm Daniel! A...
  
 <!--RECENT WEB PROJECTS-->
 ## RECENT WEB PROJECTS
+<table>
+  <tr>
+    <td align="center"><a href="http://3.131.99.116/wrestler/1">Sumodex</a></td>
+  </tr>
+  <tr>
+    <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2d395b41-6b29-4f93-894c-d3100538d9d1" width="300" alt="sumodex logo"/></p></td>
+  </tr>
+  <tr>
+    <td align="center">A Sumo Wrestling inspired Pokedex.</td>
+  </tr>
+</table>
+
+
+
 ![Github_README_2023-01-28_image](https://user-images.githubusercontent.com/37455228/215282926-6affc014-f74e-452d-900a-cf776b2614ac.jpeg)
 
 1. [Sumodex](http://3.131.99.116/wrestler/1)
@@ -47,9 +61,9 @@ Hey there - I'm Daniel! A...
 ## PAST PROJECTS
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Until You Fall</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">(FAI) FBI Assistant Investigator</a>
+    <td align="center"><a href="https://untilyoufall.schellgames.com/">Until You Fall</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">(FAI) FBI Assistant Investigator</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
@@ -65,8 +79,8 @@ Hey there - I'm Daniel! A...
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Sorcerer's and Champions</a>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Joanna and Skullfried</a>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Sorcerer's and Champions</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Joanna and Skullfried</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/96876f94-5ca4-4d1d-8f32-941569dbed5d" width="300" alt="sorcerer's and champions logo"/></td>
