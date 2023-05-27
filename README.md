@@ -274,7 +274,8 @@ I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danieljcoh" height="30" width="40" />
 </a>
  
-</p>
+</p> 
+
 
 ## SOME FAVORITE SHOWS
 <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="80"> <img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/3a9941b0-c6ba-4392-be86-e676da61a011" width="85"> <img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/74b677e2-b811-4473-971a-8b1b6888c2ad" width="75"> <img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/af0293c1-49e8-4591-961e-52c976305d67" width="90">
