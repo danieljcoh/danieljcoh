@@ -45,9 +45,14 @@ Hey there - I'm Daniel! A...
 ## RECENT WEB PROJECTS
 <table>
   <tr>
-    <td align="center"><a href="http://3.131.99.116/wrestler/1">Sumodex</a></td>
-    <td align="center"><a href="https://tiktok-tiktaktoe.netlify.app/">Tic Tac Toe</a></td>
-    <td align="center"><a href="https://password-genemaker.netlify.app/">Password Generator Website</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Sumodex</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Tic Tac Toe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Password Generator Website</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://3.131.99.116/wrestler/1">Live link</a></td>
+    <td align="center"><a href="https://tiktok-tiktaktoe.netlify.app/">Live link</a></td>
+    <td align="center"><a href="https://password-genemaker.netlify.app/">Live link</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/2d395b41-6b29-4f93-894c-d3100538d9d1" width="300" alt="sumodex logo"/></p></td>
