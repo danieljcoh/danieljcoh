@@ -140,8 +140,8 @@ I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
     <td align="center">Joanna and Skullfried</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Github ReadMe</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/96876f94-5ca4-4d1d-8f32-941569dbed5d" width="300" alt="sorcerer's and champions logo"/></td>
