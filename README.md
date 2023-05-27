@@ -20,9 +20,14 @@ Hey there - I'm Daniel! A...
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Grocery Run</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Asteroid Shooter</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Super Snake (Using Turtle Module)</a></td>
+    <td align="center">Grocery Run</td>
+    <td align="center">Asteroid Shooter</td>
+    <td align="center">Super Snake (Using Turtle Module)</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Live link</a></td>
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" width="300" alt="a 8 bit game dodging traffic"/></td>
