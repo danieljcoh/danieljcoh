@@ -277,9 +277,8 @@ I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
 </p>
 
 ## SOME FAVORITE SHOWS
-<img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">
-<img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">
-<img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">
+<img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70"> <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70"> <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70"> <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">
+
   
 
 
