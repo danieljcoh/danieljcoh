@@ -60,9 +60,9 @@ Hey there - I'm Daniel! A...
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/eab45b40-9450-4e77-b7a8-b23f9e8722bb" width="300" alt="password generator picture"/></p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">GITHUB</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">GITHUB</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">GITHUB</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/Sumodex">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/tic-tac-toe">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/Password-Generator">Github ReadMe</a></td>
   </tr>
   <tr>
     <td align="center">A Sumo Wrestling inspired Pokedex.</td>
