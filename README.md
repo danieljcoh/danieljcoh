@@ -25,9 +25,9 @@ Hey there - I'm Daniel! A...
     <td align="center">Super Snake (Using Turtle Module)</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Live link</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Live link</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Github ReadMe</a></td>
   </tr>
   <tr>
     <td><img src="https://media.giphy.com/media/UKiuAIMV7Kopr2RfxP/giphy.gif" width="300" alt="a 8 bit game dodging traffic"/></td>
@@ -45,9 +45,9 @@ Hey there - I'm Daniel! A...
 ## RECENT WEB PROJECTS
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/pygame-pymania">Sumodex</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/asteroid-classes">Tic Tac Toe</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/super_snake_game">Password Generator Website</a></td>
+    <td align="center">Sumodex</td>
+    <td align="center">Tic Tac Toe</td>
+    <td align="center">Password Generator</td>
   </tr>
   <tr>
     <td align="center"><a href="http://3.131.99.116/wrestler/1">Live link</a></td>
