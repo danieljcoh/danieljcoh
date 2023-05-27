@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljcoh&label=Profile%20views&color=0e75b6&style=flat" alt="danieljcoh" /> </p>
 
 <!--GIF-->
-# <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">Daniel J Cohen
+# <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">Daniel J Cohen <img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/aabf586f-9ffc-469e-81a3-156fc4098fd4" width="70">
 
 <!-- ABOUT ME -->
-<img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/aabf586f-9ffc-469e-81a3-156fc4098fd4" width="70">Hey there - I'm Daniel! A...
+Hey there - I'm Daniel! A...
 * 📙 Philosophical Coder
 * 📖 Avid Book Reader
 * 🌐 Language Learning Enthusiast
