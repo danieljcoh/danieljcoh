@@ -76,9 +76,14 @@ Hey there - I'm Daniel! A...
 <!-- RECENT WEB BASED PROJECTS #2-->
 <table>
   <tr>
-    <td align="center"><a href="https://unit-conversion-converter.netlify.app/">A Unit Converter</a></td>
-    <td align="center"><a href="#">An AoT AoE Compilation Website</a></td>
-    <td align="center"><a href="#">Warhammer 40K: Helper Live</a></td>
+    <td align="center">An Online Unit Converter</td>
+    <td align="center">An AoT AoE Compilation Website</td>
+    <td align="center">Warhammer 40K: Helper Live</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://unit-conversion-converter.netlify.app/">Live link</a></td>
+    <td align="center"><a href="#">Coming Soon</a></td>
+    <td align="center"><a href="#">Coming Soon</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/91097f39-bcf2-46eb-89af-d89cd4f2625d" width="300" alt="Unit converter website"/></p></td>
@@ -86,9 +91,9 @@ Hey there - I'm Daniel! A...
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/43a45b63-b670-4c50-aa1c-9b6db0c1e257" width="300" alt="A Warhammer 40K Helper Guide"/></p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/unit-converter">GITHUB</a></td>
-    <td align="center"><a href="#">GITHUB</a></td>
-    <td align="center"><a href="#">GITHUB</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/unit-converter">Github ReadMe</a></td>
+    <td align="center"><a href="#">Github ReadMe</a></td>
+    <td align="center"><a href="#">Github ReadMe</a></td>
   </tr>
   <tr>
     <td align="center">A web based unit converter made with JavaScript.</td>
