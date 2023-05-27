@@ -113,9 +113,14 @@ I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
 ## PAST PROJECTS
 <table>
   <tr>
-    <td align="center"><a href="https://untilyoufall.schellgames.com/">Until You Fall</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Cosmic Kitchen</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">(FAI) FBI Assistant Investigator</a></td>
+    <td align="center">Until You Fall and OST</td>
+    <td align="center">Cosmic Kitchen</td>
+    <td align="center">(FAI) FBI Assistant Investigator</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://untilyoufall.schellgames.com/">Live link</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Github Readme</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
@@ -131,8 +136,12 @@ I'm making a list of [100 Websites](https://100-onehundred-websites.netlify.app)
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Sorcerer's and Champions</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Joanna and Skullfried</a></td>
+    <td align="center">Sorcerer's and Champions</td>
+    <td align="center">Joanna and Skullfried</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/96876f94-5ca4-4d1d-8f32-941569dbed5d" width="300" alt="sorcerer's and champions logo"/></td>
