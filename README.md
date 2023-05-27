@@ -7,7 +7,7 @@
 # <img src="https://user-images.githubusercontent.com/37455228/215283842-f50853d0-3433-4f17-a44d-cd40ca479b07.gif" width="70">Daniel J Cohen
 
 <!-- ABOUT ME -->
-Hey there - I'm Daniel! A...
+<img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/aabf586f-9ffc-469e-81a3-156fc4098fd4" width="70">Hey there - I'm Daniel! A...
 * 📙 Philosophical Coder
 * 📖 Avid Book Reader
 * 🌐 Language Learning Enthusiast
