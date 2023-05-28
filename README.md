@@ -120,12 +120,12 @@ Hey there - I'm Daniel! A...
   <tr>
     <td align="center"><a href="https://untilyoufall.schellgames.com/">Live link</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></td>
     <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Github Readme</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/FAI-Investigative-Assistant">Github Readme</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/169e4ee4-cc6e-471b-9762-444557b4b6e3" width="300" alt="cosmic kitchen"/></p></td>
-    <td><p align="center"><img src="https://github.com/danieljcoh/FAI-Investigative-Assistant" width="300" alt="fbi assistant investigator"/></td>
+    <td><p align="center"><img src="https://github.com/danieljcoh/FAI-Investigative-Assistant/assets/37455228/e07398b5-6f6b-46c5-8c73-1220c7b3f958" width="300" alt="fbi assistant investigator"/></td>
   </tr>
   <tr>
     <td align="center">A VR Rogue-lite, Sword fighting game made.</td>
