@@ -119,8 +119,8 @@ Hey there - I'm Daniel! A...
   </tr>
   <tr>
     <td align="center"><a href="https://untilyoufall.schellgames.com/">Live link</a> and <a href="https://www.youtube.com/playlist?list=PLINVNan6DCzrkN1XMp4iTJpCDVpLmRVOl">OST</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Live link</a></td>
-    <td align="center"><a href="https://github.com/danieljcoh/FAI-Investigative-Assistant">Github Readme</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/curiouser-and-curiouser/tree/main">Github ReadMe</a></td>
+    <td align="center"><a href="https://github.com/danieljcoh/FAI-Investigative-Assistant">Github ReadMe</a></td>
   </tr>
   <tr>
     <td><p align="center"><img src="https://github.com/danieljcoh/danieljcoh/assets/37455228/b4561259-e607-448e-8ef6-1073c7839190" width="300" alt="until you fall logo"/></p></td>
