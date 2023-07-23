@@ -13,7 +13,7 @@ Hey there - I'm Daniel! A...
 * 🌐 Language Learning Enthusiast
 * 🎲 40K Player
 * 🐲🏀 Anime Enjoyer
-* 🕴️ Entreprenuer and Freelancer
+* 🕴️ Entrepreneur and Freelancer
 
 <!--RECENT PYTHON PROJECTS-->
 ## RECENT PYTHON PROJECTS
